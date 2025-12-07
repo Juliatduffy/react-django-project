@@ -6,7 +6,7 @@ from .serializers import StateSerializer
 
 @api_view(['GET'])
 def state_list(request):
-    states = State.objects.all()
+    states = State.objects.order_by('?').all()
     serializer = StateSerializer(states, many=True)
     return Response(serializer.data)
 

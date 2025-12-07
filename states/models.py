@@ -10,6 +10,6 @@ class State(models.Model):
     description = models.TextField()
     population = models.IntegerField()
     nickname = models.CharField(max_length=100, null=True)
-    img = models.ImageField(upload_to="media/", null=True, blank=True)  
+    img = models.ImageField(upload_to="states/", null=True, blank=True)  
     
 

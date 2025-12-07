@@ -1,0 +1,240 @@
+[
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "flower": "Yellow jessamine",
+      "bird": "Carolina wren",
+      "description": "South Carolina is a southeastern U.S. state known for coastal beaches, historic towns, and palmetto tree symbolism.",
+      "population": 5426800,
+      "nickname": "Palmetto State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "flower": "Iris",
+      "bird": "Mockingbird",
+      "description": "Tennessee is known for country music, the Great Smoky Mountains, and strong cultural ties to American music history.",
+      "population": 7152800,
+      "nickname": "Volunteer State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "flower": "Goldenrod",
+      "bird": "Northern cardinal",
+      "description": "Kentucky is known for horse racing, bourbon, bluegrass music, and the Appalachian Mountains.",
+      "population": 4543820,
+      "nickname": "Bluegrass State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "flower": "Dogwood",
+      "bird": "Northern cardinal",
+      "description": "Virginia played a major role in early U.S. history and features coastal plains, mountains, and historical sites.",
+      "population": 8674000,
+      "nickname": "Old Dominion",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "flower": "Rhododendron",
+      "bird": "Northern cardinal",
+      "description": "West Virginia is known for its rugged mountains, coal mining history, and outdoor recreation.",
+      "population": 1770000,
+      "nickname": "Mountain State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "flower": "Black-eyed Susan",
+      "bird": "Baltimore oriole",
+      "description": "Maryland borders Washington D.C. and is known for the Chesapeake Bay, seafood, and colonial history.",
+      "population": 6182700,
+      "nickname": "Old Line State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "flower": "Mayflower",
+      "bird": "Black-capped chickadee",
+      "description": "Massachusetts is a historic New England state known for colonial history, universities, and technology hubs.",
+      "population": 7093000,
+      "nickname": "Bay State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "flower": "Red clover",
+      "bird": "Hermit thrush",
+      "description": "Vermont is known for its forests, maple syrup, small towns, and rural New England charm.",
+      "population": 647000,
+      "nickname": "Green Mountain State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "flower": "White pine cone and tassel",
+      "bird": "Black-capped chickadee",
+      "description": "Maine features rugged coastlines, lighthouses, seafood, and vast northern forests.",
+      "population": 1385340,
+      "nickname": "Pine Tree State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "flower": "Rose",
+      "bird": "Eastern bluebird",
+      "description": "New York includes NYC, one of the world's major cultural and financial centers, along with forests and mountains.",
+      "population": 19835900,
+      "nickname": "Empire State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "flower": "Mountain laurel",
+      "bird": "Ruffed grouse",
+      "description": "Pennsylvania is known for Philadelphia, Pittsburgh, colonial history, and Amish communities.",
+      "population": 13062700,
+      "nickname": "Keystone State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "flower": "Apple blossom",
+      "bird": "American robin",
+      "description": "Michigan is surrounded by the Great Lakes and known for car manufacturing and outdoor recreation.",
+      "population": 10034113,
+      "nickname": "Great Lakes State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "flower": "Bluebonnet",
+      "bird": "Northern mockingbird",
+      "description": "Texas is the second-largest U.S. state, known for its diverse landscapes, energy industry, and strong identity.",
+      "population": 30029500,
+      "nickname": "Lone Star State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "flower": "Sagebrush",
+      "bird": "Mountain bluebird",
+      "description": "Nevada is known for Las Vegas, desert landscapes, mining history, and wide open spaces.",
+      "population": 3250570,
+      "nickname": "Silver State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "flower": "Indian paintbrush",
+      "bird": "Western meadowlark",
+      "description": "Wyoming is known for Yellowstone, the Tetons, cowboy culture, and wide plains.",
+      "population": 584057,
+      "nickname": "Equality State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "flower": "Oregon grape",
+      "bird": "Western meadowlark",
+      "description": "Oregon is known for forests, coastline, the Cascade Range, and outdoor-focused culture.",
+      "population": 4237256,
+      "nickname": "Beaver State",
+      "img": null
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "flower": "Yucca",
+      "bird": "Greater roadrunner",
+      "description": "New Mexico blends Native American and Hispanic heritage and is known for deserts, adobe architecture, and art communities.",
+      "population": 2120220,
+      "nickname": "Land of Enchantment",
+      "img": null
+    }
+  }
+]
