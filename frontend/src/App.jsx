@@ -61,11 +61,11 @@ function App() {
     <div>
       <h1>My First React + Django Website!</h1>
       <h2>
-        This unspectacular website is my first attempt at using a React + Django
-        + Postgres tech stack. Below are all of the states I have traveled to
-        that I can remember, and some images from each which are being stored/
-        pulled from a deployed django backend server. I would love to do more
-        with this website in the future.
+        This unspectacular website is my first time using a React + Django +
+        Postgres tech stack. Below are all of the states I have traveled to that
+        I can remember, and some images from each which are being stored/ pulled
+        from the django server. I would love to do more with this site in the
+        future.
       </h2>
       <div className="search-bar-wrapper">
         <input

@@ -1,10 +1,10 @@
 #root {
-  max-width: 1300px;
+  max-width: 1200px;
   margin: 0 auto;
   text-align: center;
 }
 body {
-  /* zoom: 0.9; */
+  zoom: 0.7;
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -17,12 +17,13 @@ p {
 }
 input {
   width: 100%;
-  font-size: large;
+  font-size: larger;
   color: #ededed;
   height: 4rem;
-  margin: 0px 20px 40px 20px;
+  margin: 0px 0px 40px 0px;
   background-color: transparent;
   box-sizing: border-box;
+  border: #ccc solid;
 }
 h1 {
   padding-top: 4rem;
@@ -32,6 +33,9 @@ h2 {
   font-weight: 400;
   align-items: center;
   justify-content: center;
+}
+input {
+  margin-left: 0;
 }
 
 .state-grid {
