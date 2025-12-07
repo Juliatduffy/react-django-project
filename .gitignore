@@ -16,7 +16,6 @@ env/
 
 # Django stuff
 db.sqlite3
-media/
 staticfiles/
 static/  # if collected with collectstatic
 
