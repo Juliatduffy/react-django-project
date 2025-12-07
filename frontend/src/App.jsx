@@ -32,7 +32,7 @@ function App() {
           <strong>{s.name}</strong>
         </h2>
         <img
-          src={`https://react-django-project-gqyz.onrender.com/media${s.img}`}
+          src={`https://react-django-project-gqyz.onrender.com${s.img}`}
           className="state-img"
           alt={s.name}
         />
