@@ -1,7 +1,6 @@
 ## US State Photo Album
-
-I am making this project to study for my web dev final exam and learn react.
+Julia Duffy | 12-7-2025
 
 The website is a simple "state explorer" that displays a grid of U.S. States and facts about each state (i.e. state flower, population), that is pulled from a django backend.  
 
-TODO: could be cool to add an interactive map page
+I plan to turn this website into something more interesting in the future. My main goal in building this was to gain familiarity with this tech stack and to learn react.
