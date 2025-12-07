@@ -1,4 +1,4 @@
-#US State Photo Album
+## US State Photo Album
 
 I am making this project to study for my web dev final exam and learn react.
 
