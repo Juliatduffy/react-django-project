@@ -2,7 +2,7 @@
   {
     "model": "states.state",
     "fields": {
-      "name": "North Carolina ♥️",
+      "name": "North Carolina",
       "abbreviation": "NC",
       "capital": "Raleigh",
       "flower": "Dogwood",
