@@ -65,7 +65,7 @@ function App() {
         + SQLite + REST tech stack. Below are all of the states I have traveled
         to that I can remember, and some images from each which are being
         stored/ pulled from django's SQLite DB. I would love to do more with
-        this website once finals week is over.
+        this website in the future.
       </h2>
       <div className="search-bar-wrapper">
         <input
