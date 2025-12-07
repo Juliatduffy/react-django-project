@@ -2,6 +2,132 @@
   {
     "model": "states.state",
     "fields": {
+      "name": "North Carolina ♥️",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "flower": "Dogwood",
+      "bird": "Cardinal",
+      "description": "North Carolina is a state located in the southeastern United States, bordered by Virginia to the north, the Atlantic Ocean to the east, South Carolina to the south, Georgia to the southwest, and Tennessee to the west. It is known for its diverse geography, including the Appalachian Mountains, the Piedmont region, and the coastal plain. The capital city is Raleigh, and the largest city is Charlotte. North Carolina has a rich history, being one of the original 13 colonies and known for its contributions to the American Revolution.",
+      "population": 11046024,
+      "nickname": "Tarheel State",
+      "img": "states/nc.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "flower": "Sego lily",
+      "bird": "California gull",
+      "description": "Utah is a landlocked state in the Mountain West subregion of the Western United States. It is one of the Four Corners states, sharing a border with Arizona, Colorado, and New Mexico. It also borders Wyoming to the northeast, Idaho to the north, and Nevada to the west. People from Utah are known as Utahns. Slightly over half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints (LDS Church), which has its world headquarters in Salt Lake City",
+      "population": 3500000,
+      "nickname": "Beehive State",
+      "img": "states/UT_N4a6AbE.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "flower": "Wood violet",
+      "bird": "American Robin",
+      "description": "Nobody cares LOL",
+      "population": 5960975,
+      "nickname": "America's Dairyland",
+      "img": "states/wi.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "flower": "Saguaro cactus blossom",
+      "bird": "Cactus wren",
+      "description": "Arizona is home to the Grand Canyon and is known for its desert climate, red rock landscapes, and Native American history.",
+      "population": 7359197,
+      "nickname": "Grand Canyon State",
+      "img": "states/az_f0jE0eH.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "flower": "Apple blossom",
+      "bird": "Mockingbird",
+      "description": "Arkansas features mountains, forests, hot springs, and farmland, with a culture tied to the American South.",
+      "population": 3042017,
+      "nickname": "Natural State",
+      "img": "states/goat_AxfbXVB.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "flower": "California poppy",
+      "bird": "California quail",
+      "description": "California is the most populous U.S. state, known for Hollywood, tech innovation, beaches, and national parks.",
+      "population": 38801300,
+      "nickname": "Golden State",
+      "img": "states/california.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "flower": "Rocky Mountain columbine",
+      "bird": "Lark bunting",
+      "description": "Colorado is known for the Rocky Mountains, outdoor recreation, and vibrant cities like Denver and Boulder.",
+      "population": 5970460,
+      "nickname": "Centennial State",
+      "img": "states/colorado_kAqu1TH.JPG"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "flower": "Orange blossom",
+      "bird": "Mockingbird",
+      "description": "Florida is known for its beaches, warm climate, theme parks, and Latin American cultural influence.",
+      "population": 22177900,
+      "nickname": "Sunshine State",
+      "img": "states/florida.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "flower": "Cherokee rose",
+      "bird": "Brown thrasher",
+      "description": "Georgia is known for its peaches, historic sites, and Atlanta’s role as a major cultural hub.",
+      "population": 11145450,
+      "nickname": "Peach State",
+      "img": "states/georgia_XQ0yj4q.jpg"
+    }
+  },
+  {
+    "model": "states.state",
+    "fields": {
       "name": "South Carolina",
       "abbreviation": "SC",
       "capital": "Columbia",
@@ -10,7 +136,7 @@
       "description": "South Carolina is a southeastern U.S. state known for coastal beaches, historic towns, and palmetto tree symbolism.",
       "population": 5426800,
       "nickname": "Palmetto State",
-      "img": null
+      "img": "states/sc_TUGGWNc.jpg"
     }
   },
   {
@@ -24,7 +150,7 @@
       "description": "Tennessee is known for country music, the Great Smoky Mountains, and strong cultural ties to American music history.",
       "population": 7152800,
       "nickname": "Volunteer State",
-      "img": null
+      "img": "states/tn.jpg"
     }
   },
   {
@@ -38,7 +164,7 @@
       "description": "Kentucky is known for horse racing, bourbon, bluegrass music, and the Appalachian Mountains.",
       "population": 4543820,
       "nickname": "Bluegrass State",
-      "img": null
+      "img": "states/ky.jpeg"
     }
   },
   {
@@ -52,7 +178,7 @@
       "description": "Virginia played a major role in early U.S. history and features coastal plains, mountains, and historical sites.",
       "population": 8674000,
       "nickname": "Old Dominion",
-      "img": null
+      "img": "states/vi.JPG"
     }
   },
   {
@@ -66,7 +192,7 @@
       "description": "West Virginia is known for its rugged mountains, coal mining history, and outdoor recreation.",
       "population": 1770000,
       "nickname": "Mountain State",
-      "img": null
+      "img": "states/wv.JPG"
     }
   },
   {
@@ -80,7 +206,7 @@
       "description": "Maryland borders Washington D.C. and is known for the Chesapeake Bay, seafood, and colonial history.",
       "population": 6182700,
       "nickname": "Old Line State",
-      "img": null
+      "img": "states/my.jpg"
     }
   },
   {
@@ -94,21 +220,21 @@
       "description": "Massachusetts is a historic New England state known for colonial history, universities, and technology hubs.",
       "population": 7093000,
       "nickname": "Bay State",
-      "img": null
+      "img": "states/bos.jpg"
     }
   },
   {
     "model": "states.state",
     "fields": {
-      "name": "Vermont",
-      "abbreviation": "VT",
-      "capital": "Montpelier",
-      "flower": "Red clover",
-      "bird": "Hermit thrush",
-      "description": "Vermont is known for its forests, maple syrup, small towns, and rural New England charm.",
-      "population": 647000,
-      "nickname": "Green Mountain State",
-      "img": null
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "flower": "Violet",
+      "bird": "Northern cardinal",
+      "description": "Of the fifty U.S. states, Illinois has the fifth-largest gross domestic product (GDP), the sixth-largest population, and the 25th-most land area.",
+      "population": 12710158,
+      "nickname": "Land of Lincoln",
+      "img": "states/ill.jpg"
     }
   },
   {
@@ -122,7 +248,7 @@
       "description": "Maine features rugged coastlines, lighthouses, seafood, and vast northern forests.",
       "population": 1385340,
       "nickname": "Pine Tree State",
-      "img": null
+      "img": "states/maine.jpg"
     }
   },
   {
@@ -136,7 +262,7 @@
       "description": "New York includes NYC, one of the world's major cultural and financial centers, along with forests and mountains.",
       "population": 19835900,
       "nickname": "Empire State",
-      "img": null
+      "img": "states/ny.jpg"
     }
   },
   {
@@ -150,21 +276,7 @@
       "description": "Pennsylvania is known for Philadelphia, Pittsburgh, colonial history, and Amish communities.",
       "population": 13062700,
       "nickname": "Keystone State",
-      "img": null
-    }
-  },
-  {
-    "model": "states.state",
-    "fields": {
-      "name": "Michigan",
-      "abbreviation": "MI",
-      "capital": "Lansing",
-      "flower": "Apple blossom",
-      "bird": "American robin",
-      "description": "Michigan is surrounded by the Great Lakes and known for car manufacturing and outdoor recreation.",
-      "population": 10034113,
-      "nickname": "Great Lakes State",
-      "img": null
+      "img": "states/pa.jpg"
     }
   },
   {
@@ -178,7 +290,7 @@
       "description": "Texas is the second-largest U.S. state, known for its diverse landscapes, energy industry, and strong identity.",
       "population": 30029500,
       "nickname": "Lone Star State",
-      "img": null
+      "img": "states/tx.jpg"
     }
   },
   {
@@ -192,7 +304,7 @@
       "description": "Nevada is known for Las Vegas, desert landscapes, mining history, and wide open spaces.",
       "population": 3250570,
       "nickname": "Silver State",
-      "img": null
+      "img": "states/nv.jpg"
     }
   },
   {
@@ -206,7 +318,7 @@
       "description": "Wyoming is known for Yellowstone, the Tetons, cowboy culture, and wide plains.",
       "population": 584057,
       "nickname": "Equality State",
-      "img": null
+      "img": "states/toby.jpg"
     }
   },
   {
@@ -220,7 +332,7 @@
       "description": "Oregon is known for forests, coastline, the Cascade Range, and outdoor-focused culture.",
       "population": 4237256,
       "nickname": "Beaver State",
-      "img": null
+      "img": "states/og.jpg"
     }
   },
   {
@@ -234,7 +346,7 @@
       "description": "New Mexico blends Native American and Hispanic heritage and is known for deserts, adobe architecture, and art communities.",
       "population": 2120220,
       "nickname": "Land of Enchantment",
-      "img": null
+      "img": "states/newmex.jpg"
     }
   }
 ]

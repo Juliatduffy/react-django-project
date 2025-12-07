@@ -8,7 +8,7 @@ function App() {
 
   // get the list of states from the backend
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/api/states/")
+    fetch("https://react-django-project-gqyz.onrender.com/api/states/")
       .then((res) => res.json())
       .then((data) => setStates(data));
   }, []);
@@ -32,7 +32,7 @@ function App() {
           <strong>{s.name}</strong>
         </h2>
         <img
-          src={`http://127.0.0.1:8000${s.img}`}
+          src={`https://react-django-project-gqyz.onrender.com/media${s.img}`}
           className="state-img"
           alt={s.name}
         />
